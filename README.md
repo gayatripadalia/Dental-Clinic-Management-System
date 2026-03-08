@@ -1,9 +1,9 @@
 # 🦷 Dental Clinic Management System (Console Based)
 ## 📌 Project Overview
-The **Dental Clinic Management System** is a console-based application developed using **Python and MySQL**.
+The *Dental Clinic Management System** is a console-based application developed using **Python and MySQL**.
 This system helps dental clinics efficiently manage patient records, dentist information, appointments, treatments, and billing.
 The main objective of this project is to simplify the daily operations of a dental clinic and maintain organized records in a structured database.
-This project is developed as part of academic learning to demonstrate the use of **Python programming, database management using MySQL, and console-based application development**.
+This project is developed as part of academic learning to demonstrate the use of **Python programming, database management using MySQL, and console-based application development*.
 ---
 ## 🚀 Features
 ### 👤 Patient Management
@@ -117,7 +117,6 @@ Possible future enhancements include:
 ## 👩‍💻 Author
 **Gayatri Padalia**
 BCA (Hons.) Artificial Intelligence & Data Science
-Graphic Era Hill University, Haldwani
 ---
 ## 📄 License
 This project is created for **educational purposes**.
